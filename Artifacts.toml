@@ -1,0 +1,536 @@
+[[pkgconf]]
+arch = "aarch64"
+git-tree-sha1 = "4312d2f35e1cd368aec377faa4672ab4c8c36a3b"
+os = "macos"
+os_version = "20.0.0"
+
+    [[pkgconf.download]]
+    sha256 = "8a99d4e173e7b7fee1c1fa60236bd3171df169e42258643f83e10d9269732a7c"
+    url = "https://github.com/JuliaBinaryWrappers/pkgconf_jll.jl/releases/download/pkgconf-v3.0.0/pkgconf.v3.0.0.aarch64-apple-darwin20.tar.gz"
+[[pkgconf]]
+arch = "aarch64"
+git-tree-sha1 = "c46d037651306d9d869d943a564a140dc3109915"
+libc = "glibc"
+os = "linux"
+
+    [[pkgconf.download]]
+    sha256 = "32b82f5480ecdfc3d99fd983fb54e355d22cf9112e48a8cc283d44ceef4d5295"
+    url = "https://github.com/JuliaBinaryWrappers/pkgconf_jll.jl/releases/download/pkgconf-v3.0.0/pkgconf.v3.0.0.aarch64-linux-gnu.tar.gz"
+[[pkgconf]]
+arch = "aarch64"
+git-tree-sha1 = "11352734ba5c01df5668bc8b5be159af7e28510e"
+libc = "musl"
+os = "linux"
+
+    [[pkgconf.download]]
+    sha256 = "407d191277eb7aa0c8818d337c518a6f6b46337b29fd99ab2267e6e43df27089"
+    url = "https://github.com/JuliaBinaryWrappers/pkgconf_jll.jl/releases/download/pkgconf-v3.0.0/pkgconf.v3.0.0.aarch64-linux-musl.tar.gz"
+[[pkgconf]]
+arch = "aarch64"
+git-tree-sha1 = "d97c6bc6fa6965f8d039377181adc5e1ad0e44cf"
+os = "freebsd"
+os_version = "14.1.0"
+
+    [[pkgconf.download]]
+    sha256 = "9ed13f2289539b76ca44aba2695381c35a10c4e28e7a860f6b4129cebb3060d4"
+    url = "https://github.com/JuliaBinaryWrappers/pkgconf_jll.jl/releases/download/pkgconf-v3.0.0/pkgconf.v3.0.0.aarch64-unknown-freebsd14.1.tar.gz"
+[[pkgconf]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "40007cd4a7b5ce623d952242d083307bbdaf11f9"
+libc = "glibc"
+os = "linux"
+
+    [[pkgconf.download]]
+    sha256 = "289f317c58ee8af78d856631f1341f041ec82267f4ed2cae33130650a775077d"
+    url = "https://github.com/JuliaBinaryWrappers/pkgconf_jll.jl/releases/download/pkgconf-v3.0.0/pkgconf.v3.0.0.armv6l-linux-gnueabihf.tar.gz"
+[[pkgconf]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "7055bf62f6a3288927e4090c0032c309684a935f"
+libc = "musl"
+os = "linux"
+
+    [[pkgconf.download]]
+    sha256 = "7c797e743470a4d54ea136d225543c7fc80f76591c13839ff6d1ea51050a269e"
+    url = "https://github.com/JuliaBinaryWrappers/pkgconf_jll.jl/releases/download/pkgconf-v3.0.0/pkgconf.v3.0.0.armv6l-linux-musleabihf.tar.gz"
+[[pkgconf]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "5988679661647a49c80f74e52715037e4306bd2c"
+libc = "glibc"
+os = "linux"
+
+    [[pkgconf.download]]
+    sha256 = "63ed352478edec2b56817b60f6c026752f1540034bc10e1748457d5ec39bba82"
+    url = "https://github.com/JuliaBinaryWrappers/pkgconf_jll.jl/releases/download/pkgconf-v3.0.0/pkgconf.v3.0.0.armv7l-linux-gnueabihf.tar.gz"
+[[pkgconf]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "24266b322e7e9603973f5933ac3616d9b6965c29"
+libc = "musl"
+os = "linux"
+
+    [[pkgconf.download]]
+    sha256 = "714c41032f66eb0f4296f0a9f0b2f0850ef5c45d82d5f96fd34fe369ccabe4fa"
+    url = "https://github.com/JuliaBinaryWrappers/pkgconf_jll.jl/releases/download/pkgconf-v3.0.0/pkgconf.v3.0.0.armv7l-linux-musleabihf.tar.gz"
+[[pkgconf]]
+arch = "i686"
+git-tree-sha1 = "c8e3e8f61363a2485e743e6e84f2c4bb763fccd4"
+libc = "glibc"
+os = "linux"
+
+    [[pkgconf.download]]
+    sha256 = "960e4272bcc0dda3963ca1a4b8cd118ae80a8995cf346b7ddca92d17dcf59b07"
+    url = "https://github.com/JuliaBinaryWrappers/pkgconf_jll.jl/releases/download/pkgconf-v3.0.0/pkgconf.v3.0.0.i686-linux-gnu.tar.gz"
+[[pkgconf]]
+arch = "i686"
+git-tree-sha1 = "7cf66b8b30600ef50f7eb3b38765b733d33fb711"
+libc = "musl"
+os = "linux"
+
+    [[pkgconf.download]]
+    sha256 = "750b0a34a2f711558566f6bfe3640ca422bcbf0f3b019e40ff07b7018724b89f"
+    url = "https://github.com/JuliaBinaryWrappers/pkgconf_jll.jl/releases/download/pkgconf-v3.0.0/pkgconf.v3.0.0.i686-linux-musl.tar.gz"
+[[pkgconf]]
+arch = "i686"
+git-tree-sha1 = "d77a6f361f6137482cf465bf870c16758d782e69"
+libc = "msvcrt"
+os = "windows"
+
+    [[pkgconf.download]]
+    sha256 = "fee16de281db211598b3d0fe8aa420b59120d44cc3dd0dda24c114b580ba54a3"
+    url = "https://github.com/JuliaBinaryWrappers/pkgconf_jll.jl/releases/download/pkgconf-v3.0.0/pkgconf.v3.0.0.i686-w64-mingw32.tar.gz"
+[[pkgconf]]
+arch = "powerpc64le"
+git-tree-sha1 = "10364316bc9a1de2d0ac901920972b422fbf0fe7"
+libc = "glibc"
+os = "linux"
+
+    [[pkgconf.download]]
+    sha256 = "4f2d199c528e6259f1531e2e12260071ca93512b852068f6e9d1a2b3f7e64d8d"
+    url = "https://github.com/JuliaBinaryWrappers/pkgconf_jll.jl/releases/download/pkgconf-v3.0.0/pkgconf.v3.0.0.powerpc64le-linux-gnu.tar.gz"
+[[pkgconf]]
+arch = "riscv64"
+git-tree-sha1 = "2c99b9f181626263818c59497a77119dfbf10b31"
+libc = "glibc"
+os = "linux"
+
+    [[pkgconf.download]]
+    sha256 = "b84cf29144cc11f63d97111e07366b29beb82a664274c8c80a2155301c96e4da"
+    url = "https://github.com/JuliaBinaryWrappers/pkgconf_jll.jl/releases/download/pkgconf-v3.0.0/pkgconf.v3.0.0.riscv64-linux-gnu.tar.gz"
+[[pkgconf]]
+arch = "x86_64"
+git-tree-sha1 = "328e950982adf6297c8bb77479ab49e39ef227aa"
+os = "macos"
+os_version = "20.0.0"
+
+    [[pkgconf.download]]
+    sha256 = "57053c87862a38d98ae48db67bab462ba9da8dcd1122df152429b2d06eaa9358"
+    url = "https://github.com/JuliaBinaryWrappers/pkgconf_jll.jl/releases/download/pkgconf-v3.0.0/pkgconf.v3.0.0.x86_64-apple-darwin20.tar.gz"
+[[pkgconf]]
+arch = "x86_64"
+git-tree-sha1 = "96a2eadebf0fdd359180f4cae8f94d182e0f0c8b"
+libc = "glibc"
+os = "linux"
+
+    [[pkgconf.download]]
+    sha256 = "69abb72d770c62db9f482ee77faec3f7ab0800537b6bb706a1653a700ff48f67"
+    url = "https://github.com/JuliaBinaryWrappers/pkgconf_jll.jl/releases/download/pkgconf-v3.0.0/pkgconf.v3.0.0.x86_64-linux-gnu.tar.gz"
+[[pkgconf]]
+arch = "x86_64"
+git-tree-sha1 = "ddf03b7f5542fe3010eab0b571b43834fa200077"
+libc = "musl"
+os = "linux"
+
+    [[pkgconf.download]]
+    sha256 = "f3ea34b7ce9f8b325e1cd57ab1e363b978d6e4c2103efeefef42a33d452acd38"
+    url = "https://github.com/JuliaBinaryWrappers/pkgconf_jll.jl/releases/download/pkgconf-v3.0.0/pkgconf.v3.0.0.x86_64-linux-musl.tar.gz"
+[[pkgconf]]
+arch = "x86_64"
+git-tree-sha1 = "a77c93e4dbfbce5673b6b4750f03b66b712c48c2"
+os = "freebsd"
+os_version = "14.1.0"
+
+    [[pkgconf.download]]
+    sha256 = "2b37d8d3c351949534ea03e7e200997d155c8a402de053170ca6a7a0d221c53f"
+    url = "https://github.com/JuliaBinaryWrappers/pkgconf_jll.jl/releases/download/pkgconf-v3.0.0/pkgconf.v3.0.0.x86_64-unknown-freebsd14.1.tar.gz"
+[[pkgconf]]
+arch = "x86_64"
+git-tree-sha1 = "ba8ed4fbce03df55143fe7f1b37c590de441d0b4"
+libc = "msvcrt"
+os = "windows"
+
+    [[pkgconf.download]]
+    sha256 = "da28a4d507da1e0c8a504306113f933764ad7cc5279695bebe7bc646ee30bc1b"
+    url = "https://github.com/JuliaBinaryWrappers/pkgconf_jll.jl/releases/download/pkgconf-v3.0.0/pkgconf.v3.0.0.x86_64-w64-mingw32.tar.gz"
+
+[[pkgconf-build_log]]
+arch = "aarch64"
+git-tree-sha1 = "0c7ebdc5a467a8a66dd00411c6cddf84639e7841"
+lazy = true
+os = "macos"
+os_version = "20.0.0"
+
+    [[pkgconf-build_log.download]]
+    sha256 = "80f1179ac07ef5b681a864a882dd9b384692c0ec97f784fcb79a3b4bc8d1bfb5"
+    url = "https://github.com/JuliaBinaryWrappers/pkgconf_jll.jl/releases/download/pkgconf-v3.0.0/pkgconf-build_log.v3.0.0.aarch64-apple-darwin20.tar.gz"
+[[pkgconf-build_log]]
+arch = "aarch64"
+git-tree-sha1 = "954b461833583fb604bcbc0fcfcff41fe0b4e201"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[pkgconf-build_log.download]]
+    sha256 = "49bb303fd397450657467efdffc7c99d7ed1c7b86617d7f002bc23e45e128fbc"
+    url = "https://github.com/JuliaBinaryWrappers/pkgconf_jll.jl/releases/download/pkgconf-v3.0.0/pkgconf-build_log.v3.0.0.aarch64-linux-gnu.tar.gz"
+[[pkgconf-build_log]]
+arch = "aarch64"
+git-tree-sha1 = "c648664523cc064e98b6dc229b2404c1d465c40a"
+lazy = true
+libc = "musl"
+os = "linux"
+
+    [[pkgconf-build_log.download]]
+    sha256 = "5b89afd9aff3547cee74fa41a482f2f556d0b76644a4e776f9e71bff9f9c6435"
+    url = "https://github.com/JuliaBinaryWrappers/pkgconf_jll.jl/releases/download/pkgconf-v3.0.0/pkgconf-build_log.v3.0.0.aarch64-linux-musl.tar.gz"
+[[pkgconf-build_log]]
+arch = "aarch64"
+git-tree-sha1 = "84a36a6c49cb7004833e20893a74e6b815590522"
+lazy = true
+os = "freebsd"
+os_version = "14.1.0"
+
+    [[pkgconf-build_log.download]]
+    sha256 = "e90b3aa92231b0aabaa63900eeb0ea74b9ab78b1056f4093246a84b8d85a6b5c"
+    url = "https://github.com/JuliaBinaryWrappers/pkgconf_jll.jl/releases/download/pkgconf-v3.0.0/pkgconf-build_log.v3.0.0.aarch64-unknown-freebsd14.1.tar.gz"
+[[pkgconf-build_log]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "b69c38a231f093ff8bc5870b315725f26822842d"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[pkgconf-build_log.download]]
+    sha256 = "b18507e76d5da106eea98a608e33b06ff3c2b06624318ae375afd0e79d4eba3f"
+    url = "https://github.com/JuliaBinaryWrappers/pkgconf_jll.jl/releases/download/pkgconf-v3.0.0/pkgconf-build_log.v3.0.0.armv6l-linux-gnueabihf.tar.gz"
+[[pkgconf-build_log]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "02ee151e63b674f6a9faaca7c93ced957a98a001"
+lazy = true
+libc = "musl"
+os = "linux"
+
+    [[pkgconf-build_log.download]]
+    sha256 = "f222436cfd9232e8eb0891484df7fa8199f6def498d8dd2fb5f150bdcc61b04d"
+    url = "https://github.com/JuliaBinaryWrappers/pkgconf_jll.jl/releases/download/pkgconf-v3.0.0/pkgconf-build_log.v3.0.0.armv6l-linux-musleabihf.tar.gz"
+[[pkgconf-build_log]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "3f1ac98050e7b126ddd9a2d6c22c348ee4435803"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[pkgconf-build_log.download]]
+    sha256 = "98efb60b98623b986c4ccb06149b5bf51ec99c8d526f97e50d7ffc69bed92f24"
+    url = "https://github.com/JuliaBinaryWrappers/pkgconf_jll.jl/releases/download/pkgconf-v3.0.0/pkgconf-build_log.v3.0.0.armv7l-linux-gnueabihf.tar.gz"
+[[pkgconf-build_log]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "0ee3ccc097b4e2dfca8520a88ce0110a77ac42e1"
+lazy = true
+libc = "musl"
+os = "linux"
+
+    [[pkgconf-build_log.download]]
+    sha256 = "1380f68d9c190a33ac9265a08c7c2fb897829d19ef3827b5d970e9c107bae92f"
+    url = "https://github.com/JuliaBinaryWrappers/pkgconf_jll.jl/releases/download/pkgconf-v3.0.0/pkgconf-build_log.v3.0.0.armv7l-linux-musleabihf.tar.gz"
+[[pkgconf-build_log]]
+arch = "i686"
+git-tree-sha1 = "1be54e3f7ba088aec2b293f3851dba3878a26352"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[pkgconf-build_log.download]]
+    sha256 = "695367f08f9e8da46b6617381b6ef14af6a449983ec778cc0e64aa15cdfc3765"
+    url = "https://github.com/JuliaBinaryWrappers/pkgconf_jll.jl/releases/download/pkgconf-v3.0.0/pkgconf-build_log.v3.0.0.i686-linux-gnu.tar.gz"
+[[pkgconf-build_log]]
+arch = "i686"
+git-tree-sha1 = "33a1468fa84902eacca623ff3d6a4a8004fa83ef"
+lazy = true
+libc = "musl"
+os = "linux"
+
+    [[pkgconf-build_log.download]]
+    sha256 = "ccda83f794afbe48b3f84a2d5ce2ffd605c2972d99e12de9d61b26ac0daf2ba2"
+    url = "https://github.com/JuliaBinaryWrappers/pkgconf_jll.jl/releases/download/pkgconf-v3.0.0/pkgconf-build_log.v3.0.0.i686-linux-musl.tar.gz"
+[[pkgconf-build_log]]
+arch = "i686"
+git-tree-sha1 = "e9aaf6e73c707eb9c2e05b09efc80b0327f13c9b"
+lazy = true
+libc = "msvcrt"
+os = "windows"
+
+    [[pkgconf-build_log.download]]
+    sha256 = "0b00be82193ab9daa559ce66db69c85f9590e050b8ae4e0b067c6d6249a59b72"
+    url = "https://github.com/JuliaBinaryWrappers/pkgconf_jll.jl/releases/download/pkgconf-v3.0.0/pkgconf-build_log.v3.0.0.i686-w64-mingw32.tar.gz"
+[[pkgconf-build_log]]
+arch = "powerpc64le"
+git-tree-sha1 = "e396bcb6dc45f5f6b9616e64017eac7a0290842d"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[pkgconf-build_log.download]]
+    sha256 = "c59d470a884fd88bcc5608e8a72e31f2a5b69c49f08456cb1956c78eb749d170"
+    url = "https://github.com/JuliaBinaryWrappers/pkgconf_jll.jl/releases/download/pkgconf-v3.0.0/pkgconf-build_log.v3.0.0.powerpc64le-linux-gnu.tar.gz"
+[[pkgconf-build_log]]
+arch = "riscv64"
+git-tree-sha1 = "6d3f519eb18a189d72d73b6d6b783b89629be338"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[pkgconf-build_log.download]]
+    sha256 = "1f0bcbf102b775f7db86b2ff017096f329a0cff152e23447f9c47fb7c4629c05"
+    url = "https://github.com/JuliaBinaryWrappers/pkgconf_jll.jl/releases/download/pkgconf-v3.0.0/pkgconf-build_log.v3.0.0.riscv64-linux-gnu.tar.gz"
+[[pkgconf-build_log]]
+arch = "x86_64"
+git-tree-sha1 = "a8f99a346f4df0e69a22d2c7d816cacc3e42cdb5"
+lazy = true
+os = "macos"
+os_version = "20.0.0"
+
+    [[pkgconf-build_log.download]]
+    sha256 = "066789f09c369a1bc3731e95cf0eeb405f0e1ed98dac7f658ebcae2c95611404"
+    url = "https://github.com/JuliaBinaryWrappers/pkgconf_jll.jl/releases/download/pkgconf-v3.0.0/pkgconf-build_log.v3.0.0.x86_64-apple-darwin20.tar.gz"
+[[pkgconf-build_log]]
+arch = "x86_64"
+git-tree-sha1 = "339d44cd88ba0236c1c2d82e6ea51e8d7bd8a180"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[pkgconf-build_log.download]]
+    sha256 = "0a1d87583363b1be33da6344fa92f433578de9b7d19e37ccca3eee738b5e6be6"
+    url = "https://github.com/JuliaBinaryWrappers/pkgconf_jll.jl/releases/download/pkgconf-v3.0.0/pkgconf-build_log.v3.0.0.x86_64-linux-gnu.tar.gz"
+[[pkgconf-build_log]]
+arch = "x86_64"
+git-tree-sha1 = "90b27f572a2bf780344c410f30d8dd3c092cdafb"
+lazy = true
+libc = "musl"
+os = "linux"
+
+    [[pkgconf-build_log.download]]
+    sha256 = "4fe9578eb4d9035b87356e4cde4c63578d7299f14a4fa252dee604d53cc406eb"
+    url = "https://github.com/JuliaBinaryWrappers/pkgconf_jll.jl/releases/download/pkgconf-v3.0.0/pkgconf-build_log.v3.0.0.x86_64-linux-musl.tar.gz"
+[[pkgconf-build_log]]
+arch = "x86_64"
+git-tree-sha1 = "9231b51bc97a7859dc47e896742c2ad4d345f66b"
+lazy = true
+os = "freebsd"
+os_version = "14.1.0"
+
+    [[pkgconf-build_log.download]]
+    sha256 = "da38c9a55cc1c8aac1a8dca4390aa89b9f20e25e0b4e4b492dab347300c12d27"
+    url = "https://github.com/JuliaBinaryWrappers/pkgconf_jll.jl/releases/download/pkgconf-v3.0.0/pkgconf-build_log.v3.0.0.x86_64-unknown-freebsd14.1.tar.gz"
+[[pkgconf-build_log]]
+arch = "x86_64"
+git-tree-sha1 = "a15b9c01fc649f95b655ce7e6306940dc50dee06"
+lazy = true
+libc = "msvcrt"
+os = "windows"
+
+    [[pkgconf-build_log.download]]
+    sha256 = "b100dc214e733ca999234f85be5a41b300d4da999a831128002ddb86fe751efa"
+    url = "https://github.com/JuliaBinaryWrappers/pkgconf_jll.jl/releases/download/pkgconf-v3.0.0/pkgconf-build_log.v3.0.0.x86_64-w64-mingw32.tar.gz"
+
+[[pkgconf-extract_log]]
+arch = "aarch64"
+git-tree-sha1 = "97498ab6ae1a0ddd9fdcaf9bc83c113fa07206c0"
+lazy = true
+os = "macos"
+os_version = "20.0.0"
+
+    [[pkgconf-extract_log.download]]
+    sha256 = "060a05b514b75ba92793fb77d5da728c8fcdb327e1eae74e19c4a17d2a5686d6"
+    url = "https://github.com/JuliaBinaryWrappers/pkgconf_jll.jl/releases/download/pkgconf-v3.0.0/pkgconf-extract_log.v3.0.0.aarch64-apple-darwin20.tar.gz"
+[[pkgconf-extract_log]]
+arch = "aarch64"
+git-tree-sha1 = "56d739986476199a6a0bb610cae34f7d2c22abf0"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[pkgconf-extract_log.download]]
+    sha256 = "5a892ea555af6e409089146d206b6ddfbaaa67bebf30603abfca52ae83386288"
+    url = "https://github.com/JuliaBinaryWrappers/pkgconf_jll.jl/releases/download/pkgconf-v3.0.0/pkgconf-extract_log.v3.0.0.aarch64-linux-gnu.tar.gz"
+[[pkgconf-extract_log]]
+arch = "aarch64"
+git-tree-sha1 = "6cde8737bb47d62c08f3315b0b9f497c8a00c6a9"
+lazy = true
+libc = "musl"
+os = "linux"
+
+    [[pkgconf-extract_log.download]]
+    sha256 = "5e18c4920c91f7d751a6d4cbbd75f73f18e0a3c3a6243a0cf75b07af86c3cc79"
+    url = "https://github.com/JuliaBinaryWrappers/pkgconf_jll.jl/releases/download/pkgconf-v3.0.0/pkgconf-extract_log.v3.0.0.aarch64-linux-musl.tar.gz"
+[[pkgconf-extract_log]]
+arch = "aarch64"
+git-tree-sha1 = "6640ea66785baae2b389c67e8c497af61527b8ef"
+lazy = true
+os = "freebsd"
+os_version = "14.1.0"
+
+    [[pkgconf-extract_log.download]]
+    sha256 = "7b3ff6afc97ff8e0a205b00069ed0a90079b047927d4be60b409a9517a267e53"
+    url = "https://github.com/JuliaBinaryWrappers/pkgconf_jll.jl/releases/download/pkgconf-v3.0.0/pkgconf-extract_log.v3.0.0.aarch64-unknown-freebsd14.1.tar.gz"
+[[pkgconf-extract_log]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "a203a502d89bde55709a09d134a0847ab64864f8"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[pkgconf-extract_log.download]]
+    sha256 = "2ca767a8dc2d6bcbfcd36daaf9a3a71076f5da9242c4bc23e4ab76339c93d474"
+    url = "https://github.com/JuliaBinaryWrappers/pkgconf_jll.jl/releases/download/pkgconf-v3.0.0/pkgconf-extract_log.v3.0.0.armv6l-linux-gnueabihf.tar.gz"
+[[pkgconf-extract_log]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "ba6f11283d4b705ff2fda2f10358204eec9b3b6d"
+lazy = true
+libc = "musl"
+os = "linux"
+
+    [[pkgconf-extract_log.download]]
+    sha256 = "9ac4381dc226b1d697057b25b358858cb3e8964d91334c53be0a0ae9060c0f86"
+    url = "https://github.com/JuliaBinaryWrappers/pkgconf_jll.jl/releases/download/pkgconf-v3.0.0/pkgconf-extract_log.v3.0.0.armv6l-linux-musleabihf.tar.gz"
+[[pkgconf-extract_log]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "bace7a70d20e4e39b72ee2a5df6e7a95bca1f692"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[pkgconf-extract_log.download]]
+    sha256 = "285325d712714420a6d06c4dc827dbcdd9f68c81d2e84e90944909a8acac74aa"
+    url = "https://github.com/JuliaBinaryWrappers/pkgconf_jll.jl/releases/download/pkgconf-v3.0.0/pkgconf-extract_log.v3.0.0.armv7l-linux-gnueabihf.tar.gz"
+[[pkgconf-extract_log]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "9bad04f390d0908c5932f987f5101b390a8f55d6"
+lazy = true
+libc = "musl"
+os = "linux"
+
+    [[pkgconf-extract_log.download]]
+    sha256 = "8d47ef64012eab5201f1ce72fe2c5aa5547e9de442073183c27f0323f37cef49"
+    url = "https://github.com/JuliaBinaryWrappers/pkgconf_jll.jl/releases/download/pkgconf-v3.0.0/pkgconf-extract_log.v3.0.0.armv7l-linux-musleabihf.tar.gz"
+[[pkgconf-extract_log]]
+arch = "i686"
+git-tree-sha1 = "2aef10a2f12a21785f8b2ca7d686b02780cd08fb"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[pkgconf-extract_log.download]]
+    sha256 = "b5c394a2cd41517d5411f4592acd036243f070515187c890dd6744448bd51e1c"
+    url = "https://github.com/JuliaBinaryWrappers/pkgconf_jll.jl/releases/download/pkgconf-v3.0.0/pkgconf-extract_log.v3.0.0.i686-linux-gnu.tar.gz"
+[[pkgconf-extract_log]]
+arch = "i686"
+git-tree-sha1 = "46354f86e1801e0cc707c73556d25566fec5881b"
+lazy = true
+libc = "musl"
+os = "linux"
+
+    [[pkgconf-extract_log.download]]
+    sha256 = "872cdd79723f0287570be5cae16782689e689b75734e4f23d31f1272aa4a6868"
+    url = "https://github.com/JuliaBinaryWrappers/pkgconf_jll.jl/releases/download/pkgconf-v3.0.0/pkgconf-extract_log.v3.0.0.i686-linux-musl.tar.gz"
+[[pkgconf-extract_log]]
+arch = "i686"
+git-tree-sha1 = "87b6528a7ef57a3ab147e2a687d9c6777d03bf36"
+lazy = true
+libc = "msvcrt"
+os = "windows"
+
+    [[pkgconf-extract_log.download]]
+    sha256 = "fcba8d124725bd6f8b9b3cb563582b82b4a5f84a94fd721119239587d25bcb24"
+    url = "https://github.com/JuliaBinaryWrappers/pkgconf_jll.jl/releases/download/pkgconf-v3.0.0/pkgconf-extract_log.v3.0.0.i686-w64-mingw32.tar.gz"
+[[pkgconf-extract_log]]
+arch = "powerpc64le"
+git-tree-sha1 = "e125878ab7d4b925b9b873dbf0c5e37d7e8d3236"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[pkgconf-extract_log.download]]
+    sha256 = "8778d7a34434118eb3480e001a8eb053d85ff5e2d9708dcd91aa8a481fb379cd"
+    url = "https://github.com/JuliaBinaryWrappers/pkgconf_jll.jl/releases/download/pkgconf-v3.0.0/pkgconf-extract_log.v3.0.0.powerpc64le-linux-gnu.tar.gz"
+[[pkgconf-extract_log]]
+arch = "riscv64"
+git-tree-sha1 = "25a05ad4511a94b129247d932801c3f2fb046f79"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[pkgconf-extract_log.download]]
+    sha256 = "bea8302e0c186044e55f05f304fc9991dc1a5928e68eeadd6ece1e97328f316b"
+    url = "https://github.com/JuliaBinaryWrappers/pkgconf_jll.jl/releases/download/pkgconf-v3.0.0/pkgconf-extract_log.v3.0.0.riscv64-linux-gnu.tar.gz"
+[[pkgconf-extract_log]]
+arch = "x86_64"
+git-tree-sha1 = "0ca64c6470bdc50943525c9cc92d217a08a2902b"
+lazy = true
+os = "macos"
+os_version = "20.0.0"
+
+    [[pkgconf-extract_log.download]]
+    sha256 = "65e5bd9abf9c31b4bd9f948789751aea674a153bc69563ab1d394247cbe782b8"
+    url = "https://github.com/JuliaBinaryWrappers/pkgconf_jll.jl/releases/download/pkgconf-v3.0.0/pkgconf-extract_log.v3.0.0.x86_64-apple-darwin20.tar.gz"
+[[pkgconf-extract_log]]
+arch = "x86_64"
+git-tree-sha1 = "46ff92840d729fad96f1a4dff697831bc9bb83b7"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[pkgconf-extract_log.download]]
+    sha256 = "b0013a81809a043697d0c0d4444f4cce8538b60babac7cfdcf829880b86a9630"
+    url = "https://github.com/JuliaBinaryWrappers/pkgconf_jll.jl/releases/download/pkgconf-v3.0.0/pkgconf-extract_log.v3.0.0.x86_64-linux-gnu.tar.gz"
+[[pkgconf-extract_log]]
+arch = "x86_64"
+git-tree-sha1 = "2fb784b4393c9bf56aab0700d7086d19aa063197"
+lazy = true
+libc = "musl"
+os = "linux"
+
+    [[pkgconf-extract_log.download]]
+    sha256 = "50c891604d415d7c1cd67e402d3aa2ca7ebd950f3bbdc05af038be7f8488cfb7"
+    url = "https://github.com/JuliaBinaryWrappers/pkgconf_jll.jl/releases/download/pkgconf-v3.0.0/pkgconf-extract_log.v3.0.0.x86_64-linux-musl.tar.gz"
+[[pkgconf-extract_log]]
+arch = "x86_64"
+git-tree-sha1 = "6b7a748bb0d6563dc61c16db5d1dbf001da468b4"
+lazy = true
+os = "freebsd"
+os_version = "14.1.0"
+
+    [[pkgconf-extract_log.download]]
+    sha256 = "d845c345e5ca914f313664556add67209690dfd42036f108fbbeef69097bc387"
+    url = "https://github.com/JuliaBinaryWrappers/pkgconf_jll.jl/releases/download/pkgconf-v3.0.0/pkgconf-extract_log.v3.0.0.x86_64-unknown-freebsd14.1.tar.gz"
+[[pkgconf-extract_log]]
+arch = "x86_64"
+git-tree-sha1 = "2e2965500a1e503ce1acd7605fd5a54571fe5c54"
+lazy = true
+libc = "msvcrt"
+os = "windows"
+
+    [[pkgconf-extract_log.download]]
+    sha256 = "b2a812fdcb7ecb142faf81c14bc66da2532ea968f29ed25f93c7df062ac51219"
+    url = "https://github.com/JuliaBinaryWrappers/pkgconf_jll.jl/releases/download/pkgconf-v3.0.0/pkgconf-extract_log.v3.0.0.x86_64-w64-mingw32.tar.gz"
